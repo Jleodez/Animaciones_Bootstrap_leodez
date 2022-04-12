@@ -1,0 +1,104 @@
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+}
+.width--height{
+    height: 100px;
+    }
+.height_minimundo{
+    width: 60%;
+}
+.height{
+    max-width: 100%;
+    height: auto
+}
+.height2{
+    height: 70px;
+}
+.heightnft{
+    max-height: 500px;
+    width: auto;
+}
+.fixed{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+li{
+    display: inline-flex;
+    text-align: center;
+    font-size: 25px;
+    padding: 5%;
+    margin-right: 4%;
+}
+.colorAzulOscuro {
+    background-color:rgb(11, 0, 56)
+}
+.colorMorado {
+    background-color: rgb(57, 0, 36);
+}
+.colorBlanco {
+    background-color: white;
+}
+.tipografiaBlanca{
+    color: white;
+}
+.tipografiaAzul{
+    color: rgb(11, 0, 56)
+}
+.tipografiaTamañoParrafo{
+    font-size: 15px;
+
+}
+.pading{
+    padding: 5%;
+}
+.paddingLeft {
+    padding-left: 300px;
+}
+.paddingRight{
+    padding-right: 50%;
+}
+.bMorado{
+    border-top: solid 5px rgb(57, 0, 36);
+    border-bottom: solid 5px rgb(57, 0, 36);
+}
+.margin1{
+    margin-right: 200px;
+}
+.flexImpresion3d{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+}
+.itemImpresion3d{
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    padding: 5%;
+}
+.itemMinimundos{
+    color: black;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    padding: 7%;
+}
+.imagenesCarrusel{
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.marginAuto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.gradientFondo{
+    background-image: linear-gradient(rgb(57, 0, 36),rgb(11, 0, 56));
+}
+.gradientFondoFooter{
+    background-image: linear-gradient(rgb(11, 0, 56),rgb(57, 0, 36));
+}
